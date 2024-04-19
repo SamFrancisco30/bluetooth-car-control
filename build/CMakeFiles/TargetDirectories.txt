@@ -1,0 +1,4 @@
+/home/chenzixuan/bluetooth-car-control/build/CMakeFiles/edit_cache.dir
+/home/chenzixuan/bluetooth-car-control/build/CMakeFiles/rebuild_cache.dir
+/home/chenzixuan/bluetooth-car-control/build/CMakeFiles/car_control.dir
+/home/chenzixuan/bluetooth-car-control/build/CMakeFiles/car_control_autogen.dir
